@@ -4,7 +4,7 @@ certifi==2019.11.28
 cffi==1.12.3
 chardet==3.0.4
 Django==2.2.3
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 Faker==2.0.1
 idna==2.8
 newsapi-python==0.2.6
